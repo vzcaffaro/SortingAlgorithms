@@ -1,0 +1,24 @@
+Vinny Caffaro
+002298196
+caffaro@chapman.edu
+CPSC 350-01
+Assignment 6
+
+Files:
+main.cpp
+fileReader.h
+fileReader.cpp
+
+
+Sources:
+http://www.cplusplus.com/reference/cstdlib/rand/
+https://www.edureka.co/blog/merge-sort-in-cpp
+https://www.geeksforgeeks.org/print-system-time-c-3-different-ways/
+https://www.geeksforgeeks.org/measure-execution-time-function-cpp/
+https://www.programiz.com/dsa/quick-sort
+https://appdividend.com/2019/05/02/quick-sort-in-c-tutorial-with-example-c-quick-sort-program/
+https://www.youtube.com/watch?v=aDRuD03vkzI
+
+Notes:
+Does not require command line argument
+I implemented all five sorting algorithms for the extra credit
